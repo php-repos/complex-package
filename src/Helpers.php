@@ -1,6 +1,6 @@
 <?php
 
-namespace ComplexPackage\Helpers;
+namespace Saeghe\ComplexPackage\Helpers;
 
 function helper1()
 {

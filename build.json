@@ -1,7 +1,7 @@
 {
     "packages-directory": "vendor",
     "map": {
-        "ComplexPackage": "src",
+        "Saeghe\\ComplexPackage": "src",
         "Tests": "tests"
     },
     "packages": {

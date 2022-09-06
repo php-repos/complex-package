@@ -1,8 +1,8 @@
 <?php
 
-use ComplexPackage\Models\User;
-use SimplePackage\SimpleClass;
-use ComplexPackage\Helpers;
+use Saeghe\ComplexPackage\Models\User;
+use Saeghe\SimplePackage\SimpleClass;
+use Saeghe\ComplexPackage\Helpers;
 
 ?>
 
