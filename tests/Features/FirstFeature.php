@@ -10,5 +10,10 @@ use function Saeghe\ComplexPackage\Helpers\helper1;
 
 class FirstFeature extends TestHelper
 {
-
+    public function test()
+    {
+        new HomeController(new SimpleClass);
+        User::login();
+        helper1();
+    }
 }
