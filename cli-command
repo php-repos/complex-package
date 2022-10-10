@@ -4,3 +4,5 @@
 use Saeghe\ComplexPackage\Models\User;
 use Saeghe\SimplePackage\SimpleClass;
 use Saeghe\ComplexPackage\Helpers;
+
+Helpers\helper(new User(SimpleClass::email()));
