@@ -1,10 +1,10 @@
 <?php
 
-namespace Saeghe\ComplexPackage\Controllers;
+namespace PhpRepos\ComplexPackage\Controllers;
 
-use Saeghe\ComplexPackage\Models\User;
-use function Saeghe\ComplexPackage\Helpers\helper1;
-use function Saeghe\ComplexPackage\Helpers\helper2;
+use PhpRepos\ComplexPackage\Models\User;
+use function PhpRepos\ComplexPackage\Helpers\helper1;
+use function PhpRepos\ComplexPackage\Helpers\helper2;
 
 class HomeController extends Controller
 {
